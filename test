@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Home</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+<header>
+<div class="nav">
+
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="news.html">News</a></li>
+<li><a href="aboutus.html">About us</a></li>
+<li><a href="products.html">Products and services</a></li>
+<li><a href="kh.html">Industry knowledge</a></li>
+<li><a href="investors.html">Investor relations</a></li>
+<li><a href="sustainability.html">Sustainability</a></li>
+<img src="images/z.jpg" style=" float:right;"/>
+
+</ul>
+
+
+</div>
+
+</header>
+<div class="stage-home">
+
+</div>
+
+<div class="pagecontent">Home > <br />
+<div class="title" style="text-align:center;">Welcome</div>
+<div class="content-image" style="display:none;"><img src="images/binoclars.jpg" width="100%" /></div>
+</div>
+
+<div class="footer">Contact us | Legal | Privacy</div>
+
+</body>
+</html>
